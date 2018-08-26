@@ -9,6 +9,8 @@ import javax.swing.JFrame;
 // Tabela de cores RGB
 //http://erikasarti.net/html/tabela-cores/
 
+// reference: http://seumestredaweb.blogspot.com/2012/06/java-games-2deventos-do-mouse13.html
+
 public class JggAsteroids extends JFrame {
  
 	private static final long serialVersionUID = 1L; //Eclipse indicates this long...
